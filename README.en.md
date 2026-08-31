@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 082 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 082 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-Edge-tracing filters mechanically copy everything, while complete watercolour scenes often fill the background until subject, space, and editorial rhythm all become heavy.
+Flat children's illustration can become sticker-like, while realistic 3D loses the breathing quality of watercolour. If a complex scene is not reduced, its central character and visual metaphor disappear.
 
-**Panel 082** symbolises memory with an even-weight monoline system: open contours, broken edges, restrained wobble, and line subtraction keep only what gives the subject identity and feeling. Two to four vivid source colours become spot-ink lines; density, brightness, registration shift, and grain create a printed keepsake rather than a black-outline cartoon.
+**Panel 082** compresses the photograph into broad irregular watercolour fields, then lets one protagonist rise from them through Naïve + Wonky contours and clear Isometric / 2.5D structure. Layered planes, occlusion, and small height shifts create space; source-derived vivid colour and broad warm-white paper preserve air and playfulness.
 
 ### Best for
 
-- architecture, travel, and field observation built from forceful straight lines, turns, planes, and proportions;
-- an alive unfinished quality formed by exploratory repeats, breaks, offsets, and unresolved edges;
-- colour that comes from the photograph but remains sparse, transparent, and subordinate to ink and paper;
+- making one subject leap from an irregular watercolour field through Isometric / 2.5D depth;
+- keeping childlike Naïve + Wonky character without losing structural direction, layering, or spatial logic;
+- reducing complex photographs to identity, metaphor, and only the most life-filled source colours;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -58,25 +65,25 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A limited-colour personal keepsake poster with the atmosphere of a travel atlas, map, or architectural diagram |
-| **Recognisable signature** | Even-weight coloured lines, open contours, density hierarchy, slight print misregistration, and broad warm-white paper |
-| **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
+| **What you get** | A premium picture-book poster whose three-dimensional protagonist rises from a soft watercolour plane |
+| **Recognisable signature** | Irregular watercolour base, naïve contours, clear axonometric direction, layered planes, and broad negative space |
+| **How it respects the source** | It keeps only the strongest identity traits and visual metaphor, and retunes the brightest, most vivid source colours |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
 ## Transformation logic
 
 ```text
-extract identity, contour, pose, and narrative relationship → symbolise memory with an even-weight monoline → simplify complex regions into repeated marks and density levels → extract 2–4 vivid source colours as spot-ink lines → add grain, registration shift, and uneven ink → compose asymmetrically around one core → let warm-white space and sparse handwritten notes carry the private narrative
+extract identity, structure, pose, and visual metaphor → compress the scene into irregular watercolour fields → establish one Naïve + Wonky protagonist → build Isometric / 2.5D depth through layered planes, facets, and occlusion → retune the most vivid source colours → preserve broad warm-white space → place sparse rounded editorial text along fields and axes
 ```
 
 ## Recognisable finished traits
 
-- Outer and inner lines keep near-equal visual weight: they describe shape and structure rather than realistic volume.
-- Architecture and objects use geometric frameworks; people, plants, animals, and natural forms use softer organic gestures.
-- Dense repeated marks aggregate complex areas while sparse lines release the background and preserve depth.
-- Coloured lines carry information directly; there is no default black outline plus coloured fill.
-- One clear visual core and asymmetric spacing guide the eye; warm-white space carries air, distance, pause, and emotion.
+- Large irregular watercolour fields show tide marks, grain, transparency, and slight misregistration.
+- One recognisable protagonist rises from the flat field through axonometric direction, layered planes, and occlusion.
+- Naïve proportions and trembling contours remain controlled by clear Isometric spatial logic.
+- The palette comes from the brightest source colours, with a softer ground and slightly more solid key subject colours.
+- Complex environments disappear so positive and negative shapes, air, and one visual centre control the page.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-082-prompt.en.md)
 
