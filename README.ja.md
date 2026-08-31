@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 082
+# 🦁 XXD Panel 082｜紙から飛び出す水彩
 
 ### 不規則な水彩色域から主役が立ち上がるポスターへ
 

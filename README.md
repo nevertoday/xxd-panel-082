@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 082
+# 🦁 XXD Panel 082｜水彩跃出纸
 
 ### 让核心主角从不规则水彩色域中跃然而出
 

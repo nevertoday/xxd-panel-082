@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 082
+# 🦁 XXD Panel 082｜종이를 뛰쳐나온 수채
 
 ### 불규칙한 수채 색역에서 핵심 주인공이 튀어나옵니다
 

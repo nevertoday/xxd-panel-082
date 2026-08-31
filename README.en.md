@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 082
+# 🦁 XXD Panel 082｜Watercolor Off the Page
 
 ### Let the core character leap from an irregular watercolour field
 
