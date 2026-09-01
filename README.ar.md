@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 082" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 082｜ألوان مائية تقفز من الورق
