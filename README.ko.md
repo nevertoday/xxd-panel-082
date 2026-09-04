@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 전체 프로젝트 목록
 
-60개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에서 모든 프로젝트 주소와 핵심 스타일 특징을 확인할 수 있으며 현재 프로젝트는 굵게 표시됩니다.
+82개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에는 001부터 082까지 빠짐없이 나열하며 현재 프로젝트는 굵게 표시합니다.
 
 | 프로젝트 | 스타일 특징 |
 |---|---|
@@ -337,14 +337,14 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | 부드러운 파스텔 · 파스텔 크레용 · 수용성 색연필 · 거의 흰 종이면 · 떠다니는 기억 · 시적인 손글씨 |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | 반투명 프로스트 창 · 영역별 소프트 포커스 · 미니멀 기하 · 식별 윤곽 · 현대 편집 문자 |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | 등각 미니어처 건축 · 절단 큐브 · 대륙붕 단면 · 합리적 비계 · 흰색 질감 종이 |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | 표준 둥근 정사각형 · 정면 유사3D／2.5D · 원본 영혼 · 연속 가림 · 무광 조각 · 브랜드 아이콘 |
-| **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 짙은 크레용 · 아이보리 수제 종이 · 부드러운 불규칙 색면 · 리소그래프 입자 · 넓은 여백 · 사적 메모 |
-| **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | 거친 짙은 크레용 · 목탄 · 밝은 마카롱 색면 · 45% 연속 여백 · 천연 종이 · 관찰 메모 |
-| **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | 미니멀 종이 조각 · 명확한 종이 오리기 윤곽 · 앞뒤 층 · 부드러운 그림자 · 인간적 마카롱 · 여행 잡지 타이포그래피 |
-| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | 아이보리 코튼 종이 · 딥 디보스 · 홈 안 샴페인 금박 · 가는 선형 표장 · 무잉크 압인 · 절제된 고급감 |
-| **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | 강한 기하 직선 · 자유 유기 곡선 · 펜 앤 워시 · 미완성 감각 · 넓은 종이 흰색 · 편집형 이미지·타입 |
-| **[xxd-panel-080](https://github.com/nevertoday/xxd-panel-080)** | 부드러운 유기 기하 · 디지털 과슈 · 크레용 입자 · 식물계 색상 · 자연스러운 은유 · 감정의 여백 |
-| **[xxd-panel-081](https://github.com/nevertoday/xxd-panel-081)** | 균일 컬러 모노라인 · 열린 윤곽 · 선 밀도 위계 · 2–4색 별색 · 리소그래프 입자 · 개인 기념 서사 |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | 표준 둥근 정사각형 · 정면 유사3D／2.5D · 원본 영혼 · 연속 가림 · 무광 조각 · 브랜드 아이콘 |
+| [xxd-panel-075](https://github.com/nevertoday/xxd-panel-075) | 짙은 크레용 · 아이보리 수제 종이 · 부드러운 불규칙 색면 · 리소그래프 입자 · 넓은 여백 · 사적 메모 |
+| [xxd-panel-076](https://github.com/nevertoday/xxd-panel-076) | 거친 짙은 크레용 · 목탄 · 밝은 마카롱 색면 · 45% 연속 여백 · 천연 종이 · 관찰 메모 |
+| [xxd-panel-077](https://github.com/nevertoday/xxd-panel-077) | 미니멀 종이 조각 · 명확한 종이 오리기 윤곽 · 앞뒤 층 · 부드러운 그림자 · 인간적 마카롱 · 여행 잡지 타이포그래피 |
+| [xxd-panel-078](https://github.com/nevertoday/xxd-panel-078) | 아이보리 코튼 종이 · 딥 디보스 · 홈 안 샴페인 금박 · 가는 선형 표장 · 무잉크 압인 · 절제된 고급감 |
+| [xxd-panel-079](https://github.com/nevertoday/xxd-panel-079) | 강한 기하 직선 · 자유 유기 곡선 · 펜 앤 워시 · 미완성 감각 · 넓은 종이 흰색 · 편집형 이미지·타입 |
+| [xxd-panel-080](https://github.com/nevertoday/xxd-panel-080) | 부드러운 유기 기하 · 디지털 과슈 · 크레용 입자 · 식물계 색상 · 자연스러운 은유 · 감정의 여백 |
+| [xxd-panel-081](https://github.com/nevertoday/xxd-panel-081) | 균일 컬러 모노라인 · 열린 윤곽 · 선 밀도 위계 · 2–4색 별색 · 리소그래프 입자 · 개인 기념 서사 |
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | 불규칙 수채 색역 · Naïve + Wonky · Isometric／2.5D · 소박한 윤곽 · 생생한 색 · 입체 주인공 |
 <!-- xxd-panel-catalog:end -->
 

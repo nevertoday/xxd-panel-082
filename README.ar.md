@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## دليل مشاريع XXD Panel الكامل
 
-يحافظ كل مشروع من مشاريع Panel الـ60 على موجّهه الأصلي ومنطقه الجمالي المستقل. يعرض الجدول روابط جميع المشاريع وخصائص أسلوبها الأساسية، مع تمييز المشروع الحالي بخط عريض.
+يحافظ كل مشروع من مشاريع Panel الـ82 على موجّهه الأصلي ومنطقه الجمالي المستقل. يسرد الجدول المشاريع من 001 إلى 082 دون أرقام مفقودة، مع تمييز المشروع الحالي بخط عريض.
 
 | المشروع | خصائص الأسلوب |
 |---|---|
@@ -337,14 +337,14 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | باستيل ناعم · أقلام باستيل شمعية · أقلام مائية ملونة · ورق شبه أبيض · شذرات ذاكرة عائمة · كتابة شاعرية |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | نوافذ مصنفرة نصف شفافة · تركيز ناعم مناطقي · هندسة بسيطة · محيط واضح · كتابة حديثة |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | عمارة مصغرة متساوية القياس · مكعب مقطوع · مقطع جرف قاري · سقالات عقلانية · ورق محبب |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | مربع مستدير قياسي · منظور أمامي شبه3D／2.5D · روح المصدر · حجب متصل · نحت مطفأ · أيقونة علامة |
-| **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | قلم شمعي داكن · ورق عاجي يدوي · مساحة لونية ناعمة · حبيبات ريسوغراف · فراغ واسع · ملاحظة خاصة |
-| **[xxd-panel-076](https://github.com/nevertoday/xxd-panel-076)** | قلم شمعي داكن خشن · فحم · مساحات ماكرون مشرقة · فراغ متصل 45٪ · ورق طبيعي · ملاحظات رصد |
-| **[xxd-panel-077](https://github.com/nevertoday/xxd-panel-077)** | نحت ورقي بسيط · محيطات قص واضحة · طبقات · ظل ناعم · ماكرون إنساني · طباعة مجلة سفر |
-| **[xxd-panel-078](https://github.com/nevertoday/xxd-panel-078)** | ورق قطني عاجي · ضغط غائر عميق · ذهب شامبانيا داخل الأخدود · علامة خطية دقيقة · ضغط بلا حبر · فخامة هادئة |
-| **[xxd-panel-079](https://github.com/nevertoday/xxd-panel-079)** | خطوط هندسية قوية · منحنيات عضوية حرة · حبر وتلوين مائي · إحساس غير مكتمل · بياض ورق واسع · تركيب تحريري |
-| **[xxd-panel-080](https://github.com/nevertoday/xxd-panel-080)** | هندسة عضوية لينة · غواش رقمي · نسيج شمعي حبيبي · ألوان نباتية · استعارة طبيعية · فراغ عاطفي |
-| **[xxd-panel-081](https://github.com/nevertoday/xxd-panel-081)** | خط أحادي ملوّن · محيط مفتوح · تدرّج الكثافة · 2–4 ألوان خاصة · حبيبات ريزوغراف · سرد تذكاري |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | مربع مستدير قياسي · منظور أمامي شبه3D／2.5D · روح المصدر · حجب متصل · نحت مطفأ · أيقونة علامة |
+| [xxd-panel-075](https://github.com/nevertoday/xxd-panel-075) | قلم شمعي داكن · ورق عاجي يدوي · مساحة لونية ناعمة · حبيبات ريسوغراف · فراغ واسع · ملاحظة خاصة |
+| [xxd-panel-076](https://github.com/nevertoday/xxd-panel-076) | قلم شمعي داكن خشن · فحم · مساحات ماكرون مشرقة · فراغ متصل 45٪ · ورق طبيعي · ملاحظات رصد |
+| [xxd-panel-077](https://github.com/nevertoday/xxd-panel-077) | نحت ورقي بسيط · محيطات قص واضحة · طبقات · ظل ناعم · ماكرون إنساني · طباعة مجلة سفر |
+| [xxd-panel-078](https://github.com/nevertoday/xxd-panel-078) | ورق قطني عاجي · ضغط غائر عميق · ذهب شامبانيا داخل الأخدود · علامة خطية دقيقة · ضغط بلا حبر · فخامة هادئة |
+| [xxd-panel-079](https://github.com/nevertoday/xxd-panel-079) | خطوط هندسية قوية · منحنيات عضوية حرة · حبر وتلوين مائي · إحساس غير مكتمل · بياض ورق واسع · تركيب تحريري |
+| [xxd-panel-080](https://github.com/nevertoday/xxd-panel-080) | هندسة عضوية لينة · غواش رقمي · نسيج شمعي حبيبي · ألوان نباتية · استعارة طبيعية · فراغ عاطفي |
+| [xxd-panel-081](https://github.com/nevertoday/xxd-panel-081) | خط أحادي ملوّن · محيط مفتوح · تدرّج الكثافة · 2–4 ألوان خاصة · حبيبات ريزوغراف · سرد تذكاري |
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | حقل مائي غير منتظم · Naïve + Wonky · Isometric／2.5D · محيط طفولي · لون حي · بطل مجسّم |
 <!-- xxd-panel-catalog:end -->
 
