@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 082｜Watercolor Off the Page: compresses a photo into a few large irregular watercolour patches, then lets one core subject rise out of them as a small isometric / 2.5D world with stacked planes and overlaps, drawn in naive, wonky hand-drawn outlines that often spill past the colour patch; colours are the photo's brightest hues turned into clear blue, lake teal, fresh green, warm yellow, coral, peach and soft violet on generous warm white, with a few short words in thin, rounded, slightly loose editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-082 or asks for naive watercolour with isometric 3D, wonky picture-book or watercolour-diorama illustration from a photo.",
+  "short_description": "水彩跃出纸：让照片里唯一的主角以稚拙轴测立体的样子，从不规则水彩色块里站起来",
+  "zh-CN": {
+    "name": "水彩跃出纸",
+    "tagline": "让照片里唯一的主角带着稚拙的立体感，从一片不规则水彩里站起来。",
+    "look": "画面先铺几大块不规则水彩，有水痕、颗粒、浓淡和透纸，像柔软的地形或小舞台。唯一的主角以轴测的 2.5D 方式从色块中“站起来”，层叠平面、几何切面和前后遮挡让它像一个立体小世界，局部还会伸出色块边界。造型稚拙歪扭，比例略夸张、轮廓线粗细不匀带抖动，但轴测方向是清楚的。颜色取照片里最亮的那几种，调成清澈蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉、柔紫，主角色更实更鲜，周围大片暖白。几个字用纤细圆润、略松动的编辑字体沿色块或轴线排开。",
+    "traits": [
+      "Naïve + Wonky",
+      "Isometric/2.5D",
+      "层叠平面",
+      "鲜活治愈配色",
+      "稚拙主角",
+      "大面积留白"
+    ],
+    "good": [
+      "有体块感的单一主体：一栋小房子、一座灯塔、一辆公交车、一个书架",
+      "可以变成小舞台的场景：湖上的小屋、山顶的亭子、街角的小店",
+      "颜色明快的户外照片：海边码头、花园里的温室、晴天的小镇"
+    ],
+    "poor": [
+      "主体很多、彼此平等的画面：多人合影、满街车辆，只能留一个主角",
+      "没有体块结构的柔软主体：烟雾、水面倒影、毛绒特写",
+      "想要纯平面儿童画、写实 3D 模型或灰暗低沉配色的需求"
+    ]
+  },
+  "en": {
+    "name": "Watercolor Off the Page",
+    "tagline": "Lets the one main subject of your photo stand up out of a loose watercolour patch as a naive little 3D world.",
+    "look": "A few large irregular watercolour patches come first, with water marks, grain, light and dark shifts and paper showing through, like soft terrain or a small stage. The one main subject rises out of them in isometric 2.5D, with stacked planes, geometric facets and overlaps that make it a small 3D world, sometimes reaching past the patch's edge. Its shapes are naive and wonky, with slightly exaggerated proportions and uneven, shaky outlines, but the isometric direction stays clear. Colours are the brightest in the photo, turned into clear blue, lake teal, fresh green, warm yellow, coral, peach and soft violet, with the subject's colours firmer and brighter, surrounded by wide warm white. A few words in thin, rounded, slightly loose editorial type follow a patch or an axis.",
+    "traits": [
+      "Naive and wonky",
+      "Isometric 2.5D",
+      "Stacked planes",
+      "Lively soothing colour",
+      "Clumsy hero",
+      "Wide whitespace"
+    ],
+    "good": [
+      "Single subjects with solid volume: a small house, a lighthouse, a bus, a bookshelf",
+      "Scenes that can become a little stage: a hut on a lake, a hilltop pavilion, a corner shop",
+      "Bright outdoor photos: a seaside pier, a garden greenhouse, a small town on a sunny day"
+    ],
+    "poor": [
+      "Photos with many equal subjects: group shots, streets full of cars, since only one hero is kept",
+      "Soft subjects with no solid form: smoke, reflections on water, fluffy close-ups",
+      "Requests for a flat children's drawing, a realistic 3D model or a dark, gloomy palette"
+    ]
+  },
+  "ja": {
+    "name": "紙から飛び出す水彩",
+    "tagline": "写真のただ一人の主役が、不規則な水彩の色面から素朴な立体となって立ち上がります。",
+    "look": "まず不規則な水彩の大きな色面をいくつか広げます。水の跡、粒子、濃淡、紙の透けがあり、柔らかな地形や小さな舞台のようです。ただ一つの主役はそこからアイソメトリックの 2.5D で立ち上がり、重なる平面、幾何学的な切り面、前後の重なりで小さな立体の世界になり、ところどころ色面の縁からはみ出します。形は素朴でいびつ、比率は少し誇張され、輪郭は太さが揃わず震えていますが、アイソメトリックの向きははっきりしています。色は写真のいちばん明るい色を、澄んだ青、湖の青緑、若草色、暖かい黄、コーラル、ピーチ、柔らかな紫にし、主役の色はより確かで鮮やかに、まわりは広い温かな白です。細く丸みのある少しゆるい編集書体の数語が、色面や軸に沿って並びます。",
+    "traits": [
+      "素朴でいびつ",
+      "アイソメトリック/2.5D",
+      "重なる平面",
+      "生き生きした癒やしの色",
+      "不器用な主役",
+      "広い余白"
+    ],
+    "good": [
+      "量感のある一つの主役：小さな家、灯台、バス、本棚",
+      "小さな舞台にできる場面：湖の小屋、山頂のあずまや、街角の小さな店",
+      "色の明るい屋外の写真：海辺の桟橋、庭の温室、晴れた日の小さな町"
+    ],
+    "poor": [
+      "対等な主役がたくさんある写真：集合写真、車でいっぱいの通り（主役は一つしか残せません）",
+      "かたまりの構造がない柔らかな主役：煙、水面の映り込み、ふわふわのアップ",
+      "平面的な子どもの絵、写実的な 3D モデル、暗く沈んだ配色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이를 뛰쳐나온 수채",
+    "tagline": "사진 속 단 하나의 주인공이 불규칙한 수채 색면에서 천진한 입체가 되어 일어섭니다.",
+    "look": "먼저 불규칙한 큰 수채 색면 몇 개를 펼칩니다. 물 자국, 입자, 농담, 비치는 종이가 있어 부드러운 지형이나 작은 무대 같습니다. 단 하나의 주인공은 그 위로 아이소메트릭 2.5D로 일어서며, 겹친 평면과 기하학적 단면, 앞뒤 겹침이 작은 입체 세계를 만들고, 군데군데 색면 경계 밖으로 뻗어 나옵니다. 형태는 천진하고 삐뚤며 비율은 살짝 과장되고, 윤곽선은 굵기가 고르지 않고 떨리지만 아이소메트릭 방향은 분명합니다. 색은 사진에서 가장 밝은 색을 맑은 파랑, 호수 청록, 연두, 따뜻한 노랑, 코랄, 피치, 연보라로 바꾸고, 주인공의 색은 더 단단하고 선명하게, 주변은 넓은 따뜻한 흰색입니다. 가늘고 둥글며 조금 느슨한 편집 서체 몇 단어가 색면이나 축을 따라 놓입니다.",
+    "traits": [
+      "천진하고 삐뚤게",
+      "아이소메트릭/2.5D",
+      "겹친 평면",
+      "생기 있는 힐링 색",
+      "서툰 주인공",
+      "넓은 여백"
+    ],
+    "good": [
+      "덩어리감 있는 단일 주인공: 작은 집, 등대, 버스, 책장",
+      "작은 무대로 만들 수 있는 장면: 호수 위 오두막, 산꼭대기 정자, 길모퉁이 작은 가게",
+      "색이 밝은 야외 사진: 바닷가 부두, 정원의 온실, 맑은 날 작은 마을"
+    ],
+    "poor": [
+      "대등한 주인공이 많은 사진: 단체 사진, 차로 가득한 거리(주인공은 하나만 남습니다)",
+      "덩어리 구조가 없는 부드러운 주인공: 연기, 수면 반영, 털이 복슬한 클로즈업",
+      "평면적인 어린이 그림, 사실적인 3D 모델, 어둡고 가라앉은 배색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ألوان مائية تقفز من الورق",
+    "tagline": "يجعل العنصر الرئيسي الوحيد في صورتك ينهض من بقعة ألوان مائية حرّة عالماً صغيراً مجسّماً بسيطاً.",
+    "look": "تُفرش أولاً بضع بقع كبيرة غير منتظمة من الألوان المائية، فيها آثار ماء وحبيبات وتدرّج بين الفاتح والداكن وورق يظهر من تحتها، كتضاريس ناعمة أو خشبة مسرح صغيرة. ينهض منها العنصر الرئيسي الوحيد بمنظور متساوي القياس شبه ثلاثي الأبعاد، بطبقات مسطّحة متراكبة وأوجه هندسية وتداخلات تجعله عالماً مجسّماً صغيراً، ويتجاوز أحياناً حافة البقعة. أشكاله ساذجة ومائلة، بنِسب مبالغ فيها قليلاً وخطوط محيطية متفاوتة مرتعشة، لكن اتجاه المنظور يبقى واضحاً. الألوان هي الأكثر إشراقاً في الصورة، محوّلة إلى أزرق صافٍ وفيروزي البحيرة وأخضر طري وأصفر دافئ ومرجاني وخوخي وبنفسجي ناعم، وألوان العنصر أمتن وأزهى، يحيط بها أبيض دافئ واسع. وتمتد كلمات قليلة بحرف تحريري رفيع مستدير مرتخٍ قليلاً على حافة بقعة أو محور.",
+    "traits": [
+      "ساذج ومائل",
+      "متساوي القياس 2.5D",
+      "طبقات متراكبة",
+      "ألوان حيّة مريحة",
+      "بطل أخرق",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عنصر واحد ذو كتلة واضحة: بيت صغير، منارة، حافلة، رفّ كتب",
+      "مشاهد تصلح خشبة مسرح صغيرة: كوخ على بحيرة، جناح على قمة تلّ، متجر على ناصية",
+      "صور خارجية مشرقة: رصيف بحري، دفيئة في حديقة، بلدة صغيرة في يوم مشمس"
+    ],
+    "poor": [
+      "صور فيها عناصر كثيرة متساوية: صور جماعية، شوارع مزدحمة بالسيارات، إذ لا يُبقى إلا بطل واحد",
+      "عناصر ناعمة بلا كتلة: دخان، انعكاسات على الماء، لقطات قريبة لفرو كثيف",
+      "طلب رسم أطفال مسطّح أو نموذج ثلاثي الأبعاد واقعي أو ألوان قاتمة كئيبة"
+    ]
+  }
+}

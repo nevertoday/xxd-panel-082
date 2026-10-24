@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-082
-description: "Create XXD Panel 082 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-082 or requests the exact Panel 082 style."
+description: "XXD Panel 082｜Watercolor Off the Page: compresses a photo into a few large irregular watercolour patches, then lets one core subject rise out of them as a small isometric / 2.5D world with stacked planes and overlaps, drawn in naive, wonky hand-drawn outlines that often spill past the colour patch; colours are the photo's brightest hues turned into clear blue, lake teal, fresh green, warm yellow, coral, peach and soft violet on generous warm white, with a few short words in thin, rounded, slightly loose editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-082 or asks for naive watercolour with isometric 3D, wonky picture-book or watercolour-diorama illustration from a photo."
 ---
 
 # XXD Panel 082
